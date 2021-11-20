@@ -51,7 +51,7 @@
     "qs": "^6.5.0",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "react-instantsearch": "^4.4.2",
+    "react-instantsearch": "^5.2.0",
     "react-transition-group": "^1.2.1",
     "unescape-html": "^1.0.0",
     "unfetch": "^3.0.0",
